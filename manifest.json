@@ -1,12 +1,12 @@
 {
   "name": "TheHowlingYonderModpack",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/MLNW/the-howling-yonder-modpack",
   "description": "A modpack for 'The Howling Yonder' server",
   "dependencies": [
     "Atopy-QuickPing-1.5.3",
     "denikson-BepInExPack_Valheim-5.4.1901",
-    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.0.3",
+    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.1.0",
     "Nexus-FarmGrid-0.2.0"
   ]
 }
