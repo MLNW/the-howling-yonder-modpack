@@ -1,12 +1,14 @@
 {
   "name": "TheHowlingYonderModpack",
-  "version_number": "1.2.1",
+  "version_number": "1.3.0",
   "website_url": "https://github.com/MLNW/the-howling-yonder-modpack",
   "description": "A modpack for 'The Howling Yonder' server",
   "dependencies": [
     "Atopy-QuickPing-1.5.3",
+    "Azumatt-AAA_Crafting-1.0.2",
+    "Azumatt-AzuClock-1.0.0",
     "denikson-BepInExPack_Valheim-5.4.1901",
-    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.1.0",
+    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.1.1",
     "OdinPlus-OdinHorse-1.0.1",
     "Smoothbrain-Farming-2.1.3",
     "Smoothbrain-Mining-1.1.3",
