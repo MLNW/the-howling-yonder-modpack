@@ -1,11 +1,11 @@
 {
   "name": "TheHowlingYonderModpack",
-  "version_number": "1.8.0",
+  "version_number": "1.8.1",
   "website_url": "https://github.com/MLNW/the-howling-yonder-modpack",
   "description": "A modpack for 'The Howling Yonder' server",
   "dependencies": [
     "Atopy-QuickPing-1.5.3",
-    "Azumatt-AAA_Crafting-1.0.2",
+    "Azumatt-AAA_Crafting-1.0.3",
     "Azumatt-AzuClock-1.0.0",
     "ComfyMods-ComfyQuickSlots-1.0.9",
     "denikson-BepInExPack_Valheim-5.4.1901",
