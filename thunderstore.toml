@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "TheHowlingYonder"
 name = "TheHowlingYonderModpack"
-versionNumber = "1.8.7"
+versionNumber = "1.9.0"
 description = "A modpack for 'The Howling Yonder' server"
 websiteUrl = "https://github.com/MLNW/the-howling-yonder-modpack"
 containsNsfwContent = false
@@ -13,6 +13,7 @@ containsNsfwContent = false
 Atopy-QuickPing = "1.5.3"
 Azumatt-AAA_Crafting = "1.0.5"
 Azumatt-AzuClock = "1.0.0"
+Azumatt-Where_You_At = "1.0.7"
 ComfyMods-ComfyQuickSlots = "1.0.9"
 denikson-BepInExPack_Valheim = "5.4.1901"
 Digitalroot-Digitalroots_Slope_Combat_Assistance = "2.0.2"
