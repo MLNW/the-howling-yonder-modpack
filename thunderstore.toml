@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "TheHowlingYonder"
 name = "TheHowlingYonderModpack"
-versionNumber = "1.8.6"
+versionNumber = "1.8.7"
 description = "A modpack for 'The Howling Yonder' server"
 websiteUrl = "https://github.com/MLNW/the-howling-yonder-modpack"
 containsNsfwContent = false
