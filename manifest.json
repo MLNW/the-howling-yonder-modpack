@@ -1,6 +1,6 @@
 {
   "name": "TheHowlingYonderModpack",
-  "version_number": "1.8.3",
+  "version_number": "1.8.4",
   "website_url": "https://github.com/MLNW/the-howling-yonder-modpack",
   "description": "A modpack for 'The Howling Yonder' server",
   "dependencies": [
@@ -10,11 +10,11 @@
     "ComfyMods-ComfyQuickSlots-1.0.9",
     "denikson-BepInExPack_Valheim-5.4.1901",
     "Digitalroot-Digitalroots_Slope_Combat_Assistance-2.0.2",
-    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.1.1",
+    "Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock-1.2.0",
     "MathiasDecrock-Snap_Points_Made_Easy-1.3.2",
     "OdinPlus-OdinHorse-1.1.0",
     "OdinPlus-OdinsCraftyBoxes-1.0.6",
-    "Smoothbrain-Farming-2.1.3",
+    "Smoothbrain-Farming-2.1.4",
     "Smoothbrain-Lumberjacking-1.0.3",
     "Smoothbrain-Mining-1.1.3",
     "Smoothbrain-Ranching-1.1.1",
