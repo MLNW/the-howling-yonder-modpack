@@ -4,14 +4,14 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "TheHowlingYonder"
 name = "TheHowlingYonderModpack"
-versionNumber = "1.14.0"
+versionNumber = "1.14.1"
 description = "A modpack for 'The Howling Yonder' server"
 websiteUrl = "https://github.com/MLNW/the-howling-yonder-modpack"
 containsNsfwContent = false
 
 [package.dependencies]
 Amar1729-BetterLadders = "0.2.0"
-Atopy-QuickPing = "1.5.3"
+Atopy-QuickPing = "1.5.6"
 Azumatt-AAA_Crafting = "1.0.6"
 Azumatt-AzuClock = "1.0.0"
 Azumatt-Where_You_At = "1.0.7"
